@@ -1,0 +1,17 @@
+body {
+    background-color: orange;
+}
+
+.burgerButton {
+    width:150px;
+    float:left;
+    margin:10px;
+}
+
+.burgerWrap {
+    width:280px;
+    margin: 0 auto;
+}
+form {
+    margin-top:10px;
+}
